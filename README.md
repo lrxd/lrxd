@@ -2,8 +2,8 @@
 <img src="https://komarev.com/ghpvc/?username=lrxd&color=000000&style=for-the-badge" alt="lrxd" />
 <br>
 <h3>Contact İnformation</h3>
-<a href="https://discord.com/users/900730500740689990" target"blank_"><img src="https://img.shields.io/badge/lrx%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://t.me/lereikss" target"blank_"><img src="https://img.shields.io/badge/Telegram%20-111111.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://discord.com/users/900730500740689990" target"blank_"><img src="https://img.shields.io/badge/@lrx%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://t.me/lereikss" target"blank_"><img src="https://img.shields.io/badge/@lereikss%20-111111.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a>
 </div>
 
 
